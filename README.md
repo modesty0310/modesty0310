@@ -30,7 +30,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=segyeom_dev&color=dark)](https://velog.io/@segyeom_dev)
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modesty0310&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modesty0310&show_icons=true&theme=radical&count_private=true)
   
 
   
